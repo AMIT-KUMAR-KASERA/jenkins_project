@@ -4,5 +4,5 @@ int main()
 printf("hellow sir");
   printf("hellow");
    printf("welcome to jenkins");
-   printf("welcome to jenkins")
+   printf("welcome to jenkins");
 }
